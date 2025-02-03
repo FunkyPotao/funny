@@ -1,0 +1,8 @@
+x = input("magst du einsen?")
+
+
+if (x == 1):
+  print("i ate snad :)")
+
+else
+  print("GAAAAK!!")
